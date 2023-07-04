@@ -1,4 +1,6 @@
 # Webshop-testing
+I tested Webshop: created checklist, created test cases using Test IT and filed bugs, using YouTrack BTS.
+
 The link to the Webshop http://demowebshop.tricentis.com/: 
 
  <ul>
